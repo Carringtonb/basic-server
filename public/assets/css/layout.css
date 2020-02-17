@@ -10,7 +10,7 @@ html {
 
 body {
 	background: #fff;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Muli', sans-serif;
 	font-size: 19pt;
 	font-weight: 300;
 	line-height: 1.75em;
@@ -693,6 +693,10 @@ button,
 			background-color: #81918E;
 			background-image: url("../../images/banner.jpg");
 		}
+		#myVideo{
+			width: 100%;
+			height 70%;
+		}
 
 		#main > section.two {
 			background-color: #f5fafa;
@@ -1005,7 +1009,7 @@ button,
 			}
 
 			#main section.cover {
-				padding: 4em 0;
+				padding: inherit;
 			}
 
 }

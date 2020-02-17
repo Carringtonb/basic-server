@@ -646,6 +646,9 @@ button,
 			}
 
 /* Main */
+section#top.one.dark.cover{
+	padding: 0px;
+}
 
 #main {
 	margin-left: 375px;
@@ -825,9 +828,9 @@ button,
 
 /* Narrower */
 
-#headerToggle {
+/* #headerToggle {
 	display: none;
-}
+} */
 
 @media screen and (max-width: 960px) {
 
